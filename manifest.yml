@@ -1,0 +1,8 @@
+applications:
+- path: target/MyIBMCloudApp-0.0.1-SNAPSHOT.war
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: MyIBMCloudApp
+  host: MyIBMCloudApp
+  
